@@ -1,0 +1,96 @@
+4th Dimension database
+Adabas D database
+Alpha Five database
+Apache Derby database
+Aster Data database
+Amazon Aurora database
+Altibase database
+CA Datacom database
+CA IDMS database
+Clarion database
+ClickHouse database
+Clustrix database
+CSQL database
+CUBRID database
+DataEase database
+Database Management Library
+Dataphor database
+dBase database
+Derby aka Java DB database
+Empress Embedded  database
+EXASolution database
+EnterpriseDB database
+eXtremeDB database
+FileMaker Pro database
+Firebird database
+FrontBase database
+Google Fusion Tables database
+Greenplum database
+GroveSite database
+H2 database
+Helix database
+HSQLDB database
+IBM DB2 database
+IBM Lotus Approach database
+IBM DB2 Express-C database
+Infobright database
+Informix database
+Ingres database
+InterBase database
+InterSystems Caché database
+LibreOffice Base database
+Linter database
+MariaDB database
+MaxDB database
+MemSQL database
+Microsoft Access database
+SQL Server database
+SQL Azure database
+Visual FoxPro database
+Mimer SQL database
+MonetDB database
+mSQL database
+MySQL database
+Netezza database
+NexusDB database
+NonStop SQL database
+NuoDB database
+Openbase database
+OpenLink Virtuoso database
+OpenOffice.org Base database
+Oracle database
+Oracle Rdb for OpenVMS database
+Panorama database
+Pervasive PSQL database
+Polyhedra database
+PostgreSQL database
+Postgres Plus Advanced Server database
+Progress Software database
+RDM Embedded database
+RDM Server database
+R:Base database
+The SAS system database
+SAND CDBMS database
+SAP HANA database
+SAP Sybase  database
+SQL Anywhere database
+Sybase Adaptive Server Anywhere database
+Watcom SQL database
+ScimoreDB database
+SmallSQL database
+solidDB database
+SQLBase database
+SQLite database
+SQream DB database
+Sybase Advantage Database Server
+Teradata database
+TiDB database
+Tibero database
+TimesTen database
+Trafodion database
+txtSQL database
+Unisys RDMS database
+UniData database
+UniVerse database
+Vectorwise database
+Vertica database
